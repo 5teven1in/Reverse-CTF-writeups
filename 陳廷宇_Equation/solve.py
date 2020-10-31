@@ -27,4 +27,4 @@ if s.check() == sat:
     flag += m[v12].as_long().to_bytes(4, byteorder='little')
     flag += m[v13].as_long().to_bytes(4, byteorder='little')
     flag += m[v14].as_long().to_bytes(4, byteorder='little')
-    print(flag)
+    print(f"MyFirstCTF{{{flag.decode()}}}")
