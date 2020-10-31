@@ -9,12 +9,12 @@
 
 ### Level 3
 
-- [ ] Equation
+- [x] Equation
 
 ### Level 2
 
 - [x] 陳廷宇_XorZero
-- [ ] 林思辰_search
+- [x] 林思辰_search
 
 ### Level 1
 
@@ -23,5 +23,5 @@
 ### Level 0
 
 - [x] EasyCTF_LuckyGuess
-- [ ] EasyCTF_ezreverse
-- [ ] EasyCTF_liar
+- [x] EasyCTF_ezreverse
+- [x] EasyCTF_liar
