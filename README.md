@@ -4,6 +4,8 @@
 
 ### Level 4
 
+- [x] AIS3_Pre_exam_2016-Binary2
+- [x] AIS3_Pre_exam_2015-Bin3
 - [x] AIS3_Pre_exam_2016-Binary3
 - [x] NoConName2014_inBINcible
 
